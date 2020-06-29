@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1569746092542847240, guid: 55770177db5dce245b951f3e32c42c7e, type: 3}
       propertyPath: m_Name
-      value: terrain
+      value: terrain Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1569746092542847244, guid: 55770177db5dce245b951f3e32c42c7e, type: 3}
       propertyPath: m_LocalPosition.x
